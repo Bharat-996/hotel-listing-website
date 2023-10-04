@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Introduction
+The Hotel Listing Website is a web application designed to help users Buy and Rent Property online conveniently. It offers a user-friendly interface to browse available Property, view their details, and make Booking. Whether you're a traveler looking for accommodation or a Property owner looking to list your property, this website provides a platform for your needs.
+
+Features
 
 ## Available Scripts
 
